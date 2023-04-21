@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ghill\\Git files\\seminar 7 ex 52\\seminar 7 ex 52.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ghill\\Git files\\seminar 7 ex 52\\seminar 7 ex 52.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ghill\\Git files\\seminar 7 ex 52\\seminar 7 ex 52.csproj",
+        "projectName": "seminar 7 ex 52",
+        "projectPath": "C:\\Users\\ghill\\Git files\\seminar 7 ex 52\\seminar 7 ex 52.csproj",
+        "packagesPath": "C:\\Users\\ghill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghill\\Git files\\seminar 7 ex 52\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ghill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
